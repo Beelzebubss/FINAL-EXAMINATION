@@ -1,0 +1,139 @@
+
+
+body {
+    position:auto;
+    padding: auto;
+    margin: auto;
+    background-image : url('back.jpg') ;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+}
+
+.slider{
+    margin-left: 115px;
+}
+
+.mis p{
+    background-color: lightgrey;
+    width: 300px;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.vis p{
+    background-color: lightgrey;
+    width: 300px;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.mis p{
+    background-color: lightgrey;
+    width: 300px;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.slide{
+    background-color: lightgrey;
+    width: 200px;
+    border: 5px solid black;
+    padding-right:123px;
+    padding-left:20px;
+    margin-right: auto;
+}
+
+.log p{
+    background-color: lightgrey;
+    width: 300px;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.vis{
+    margin-left: 170px;
+    margin-top: 50px;
+}
+.mis{
+    margin-left: 170px;
+    margin-top: 50px;
+}
+
+.log{
+    padding-right: 5px;
+    position: absolute; top: 5px; right: 5px; text-align: left;
+    margin-top: 95px;
+    margin-right: 200px;
+}
+
+.gol{
+    margin-right: 5px;
+}
+
+
+h1{
+    color: bisque;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.header {
+    width: 100%;
+    height: 50px;
+    background: blue;
+}
+
+.header_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+
+
+.header_menu ul {
+    display: flex;
+    margin-right: 30px;
+}
+
+.header_menu ul li {
+    padding: 0px 10px; 
+    list-style: none;
+}
+
+.header_menu ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.arts{
+    background-color: lightgrey;
+    width: 700px;
+    border: 5px solid black;
+    padding: 10px;
+    margin-left: 50px;
+    margin-top: 60px;
+    opacity: .8;
+}
+
+.mits p{
+    background-color: lightgrey;
+    width: 200px;
+    border: 5px solid black;
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+    opacity: .8;
+}
+
+.mits{
+    padding-right: 5px;
+    position: absolute; top: 5px; right: 5px; text-align: left;
+    margin-top: 80px;
+    margin-right: 100px;
+}
+
